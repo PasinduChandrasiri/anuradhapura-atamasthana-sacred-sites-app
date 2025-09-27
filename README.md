@@ -66,7 +66,7 @@ This project merges advanced mobile UI/UX (glassmorphism, animation) with cultur
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-git clone https://github.com/your-username/atamasthana_wandana.git
+git clone https://github.com/PasinduChandrasiri/atamasthana_wandana.git
 
 2. **Install dependencies:**
 flutter pub get
